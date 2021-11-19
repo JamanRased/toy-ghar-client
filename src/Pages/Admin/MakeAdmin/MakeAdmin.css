@@ -1,0 +1,21 @@
+.add-admin{
+    background-color: rgb(226, 223, 220);
+    padding-top: 30px;
+    margin-top: auto;
+    text-align: center;
+    
+}
+.add-admin form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.add-admin form input{
+    width: 40%;
+    margin: 10px;
+    padding: 15px;
+    border: 1px solid rgb(255, 163, 163);
+    
+}

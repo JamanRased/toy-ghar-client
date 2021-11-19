@@ -1,0 +1,4 @@
+.event-all{
+    display: 'grid-container';
+    grid-column: 1 / span 2;
+}

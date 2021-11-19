@@ -1,0 +1,18 @@
+.add-products{
+    background-color: rgb(255, 197, 245);
+    padding-top: 30px;
+    margin-top: auto;
+    text-align: center;
+}
+.add-products form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;  
+}
+.add-products form input{
+    width: 40%;
+    margin: 10px;
+    padding: 15px;
+    border: 1px solid rgb(255, 163, 163);  
+}
